@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 32 32" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <linearGradient xmlns="http://www.w3.org/2000/svg" id="Orange_Yellow" gradientUnits="userSpaceOnUse" x1="-3.45" x2="29.221" y1="30.192" y2="5.06">
+      <stop stop-opacity="1" stop-color="#566ee7" offset="0"/>
+      <stop stop-opacity="1" stop-color="#566ee7" offset="0.04"/>
+      <stop stop-opacity="1" stop-color="#566ee7" offset="0.117"/>
+      <stop stop-opacity="1" stop-color="#566ee7" offset="0.196"/>
+      <stop stop-opacity="1" stop-color="#566ee7" offset="0.281"/>
+      <stop stop-opacity="1" stop-color="#4058d0" offset="0.669"/>
+      <stop stop-opacity="1" stop-color="#4058d0" offset="0.888"/>
+      <stop stop-opacity="1" stop-color="#4058d0" offset="1"/>
+    </linearGradient>
+    <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Orange_Yellow-2" x1="-2.966" x2="29.705" xlink:href="#Orange_Yellow" y1="30.82" y2="5.689"/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m30 11h-1v-2.79a3.214 3.214 0 0 0 -3.21-3.21h-21.58a3.214 3.214 0 0 0 -3.21 3.21v15.58a3.214 3.214 0 0 0 3.21 3.21h21.58a3.214 3.214 0 0 0 3.21-3.21v-2.79h1a1 1 0 0 0 1-1v-8a1 1 0 0 0 -1-1zm-3 12.79a1.212 1.212 0 0 1 -1.21 1.21h-21.58a1.212 1.212 0 0 1 -1.21-1.21v-15.58a1.212 1.212 0 0 1 1.21-1.21h21.58a1.212 1.212 0 0 1 1.21 1.21v2.79h-3a5 5 0 1 0 0 10h3zm2-4.79h-5a3 3 0 0 1 0-6h5z" fill="url(#Orange_Yellow)" data-original="url(#Orange_Yellow)"/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m11 21h-5a1 1 0 0 0 0 2h5a1 1 0 0 0 0-2z" fill="url(#Orange_Yellow-2)" data-original="url(#Orange_Yellow-2)"/>
+  </g>
+</svg>
